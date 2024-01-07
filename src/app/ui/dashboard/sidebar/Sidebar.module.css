@@ -1,0 +1,19 @@
+.container {
+    height: 100dvh;
+    width: 100%;
+    overflow-y: auto;
+    background-color: var(--bgSoft);
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width: 100%;
+    border-bottom: 1px solid #dedfe0;
+}
+
+.wrapper {
+    height: calc(100dvh - 150px);
+}

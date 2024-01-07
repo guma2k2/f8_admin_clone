@@ -1,0 +1,27 @@
+:root {
+  --bg: white;
+  --bgSoft: #f7f8fa;
+  --text: black;
+  --text-hover: #f05123;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  font-size: 400;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul,
+li {
+  list-style: none;
+}

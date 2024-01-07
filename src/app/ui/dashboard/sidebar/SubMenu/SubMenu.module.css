@@ -1,0 +1,31 @@
+.SidebarLink {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 55px;
+    font-size: 16px;
+    padding: 10px;
+    border-bottom: 1px solid #dedfe0;
+}
+
+.SidebarLink:hover {
+    background-color: #e0e0e0;
+}
+
+.DropdownLink {
+    height: 55px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    padding-left: 30px;
+    gap: 10px;
+}
+
+.DropdownLink:hover {
+    background-color: #e0e0e0;
+}
+
+.title {
+    margin-left: 20px;
+
+}
